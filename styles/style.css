@@ -22,6 +22,20 @@ body {
     background-color: var(--color2);
 }
 
+#generate {
+    height: 40px;
+    font-size: 1.5rem;
+    border-radius: 40%;
+    border: 3px solid purple;
+    color: orange;
+    background-color: black;
+}
+
+#random-num {
+    font-size: 1.5rem;
+    color: orange;
+}
+
 main {
     display: flex;
     flex-direction: column;
